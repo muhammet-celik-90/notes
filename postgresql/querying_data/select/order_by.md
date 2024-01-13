@@ -35,7 +35,7 @@ ORDER BY
 
 *Output:*
 
-![https://www.postgresqltutorial.com/wp-content/uploads/2019/12/PostgreSQL-ORDER-BY-expressions.png]
+![çıktı](https://www.postgresqltutorial.com/wp-content/uploads/2019/12/PostgreSQL-ORDER-BY-expressions.png)
 
 
 
