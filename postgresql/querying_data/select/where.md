@@ -18,7 +18,7 @@ ORDER BY sort_expression
 If you use column aliases in the SELECT clause, you cannot use them in the WHERE clause. (*SELECT yan tümcesinde sütun takma adları kullanırsanız, bunları WHERE yan tümcesinde kullanamazsınız.*)
 
 | Operator   | Description                                                     |
-|:----------:| ---------------------------------------------------------------:|
+|:---------- | :---------------------------------------------------------------|
 | =          | Equal                                                           |
 | >          | Greater than                                                    |
 | <          | Less than                                                       |
