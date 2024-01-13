@@ -38,5 +38,18 @@ ORDER BY
 ![çıktı](https://www.postgresqltutorial.com/wp-content/uploads/2019/12/PostgreSQL-ORDER-BY-expressions.png)
 
 
+## ORDER BY clause and NULL
+
+When you sort rows that contains NULL, you can specify the order of NULL with other non-null values by using the NULLS FIRST or NULLS LAST option of the ORDER BY clause: (*NULL içeren satırları sıraladığınızda, ORDER BY yan tümcesinin NULLS FIRST veya NULLS LAST seçeneğini kullanarak NULL'un diğer null olmayan değerlerle sırasını belirtebilirsiniz:*)
+
+```javascript
+
+ORDER BY sort_expresssion [ASC | DESC] [NULLS FIRST | NULLS LAST]
+
+```
+
+
+
+
 
 
